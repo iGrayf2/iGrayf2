@@ -47,4 +47,4 @@ Check pinned repositories below 👇
 ---
 
 ## 📫 Contact
-- Email: igrayscherbak@yandex.ru
+- Email: igray.s@yahoo.com
