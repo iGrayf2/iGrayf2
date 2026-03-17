@@ -36,22 +36,6 @@ Telegram bots, machine control interfaces, backend services, and hardware integr
 
 ---
 
-## 📂 Key projects
-
-🔹 **Moydod_Bot**  
-Telegram bot for managing production processes, shifts, and tasks  
-
-🔹 **Machine Control System**  
-Local control interface for industrial equipment with real-time data  
-
-🔹 **ESP32 Integration**  
-Device communication and control via MQTT  
-
-🔹 **Monitoring System**  
-Tracking machine states, speed, and downtime  
-
----
-
 ## 📈 GitHub stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iGrayf2&show_icons=true&theme=dark)
