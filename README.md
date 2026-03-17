@@ -1,4 +1,4 @@
-# Sergey ⚙️  
+# Sergey (iGray) ⚙️  
 ### Python Developer • Industrial Automation • System Builder
 
 I design and build practical software systems for real-world production tasks:  
